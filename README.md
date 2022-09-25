@@ -1,8 +1,8 @@
-**Deep_Learning_Regression**
+## **Deep_Learning_Regression**
 
 Nous cherchons à prédire le prix de maison via ce rojet
 
-# **Les données**
+## **Les données**
 Nous utiliserons des données provenant d'un ensemble de données Kaggle :
 
 https://www.kaggle.com/harlfoxem/housesalesprediction
