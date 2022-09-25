@@ -1,6 +1,6 @@
 ## **Deep_Learning_Regression**
 
-Nous cherchons à prédire le prix de maison via ce rojet
+Nous cherchons à prédire le prix de maisons via ce rojet. Il s'agit d'un projetc complet qui retrace toutes les étapes d'un projet en Data Science afin de construire un modéle prédictif. Je vous laisse découvrire le script y associé, qui est très détaillé.
 
 ## **Les données**
 Nous utiliserons des données provenant d'un ensemble de données Kaggle :
